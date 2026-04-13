@@ -21,8 +21,7 @@
 
 Go Together 是一个以 **"AI + 真实旅行经验"** 为核心引擎的智能旅行平台，构建从行前决策到行中服务的**全流程陪伴体验**。它不是又一个旅游 APP，而是您的 AI 旅行伙伴。
 
-<a href="./LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-A6AFFD?style=for-the-badge
-" alt="Documentation"></a>
+<a href="./LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-A6AFFD?style=for-the-badge" alt="LICENSE"></a>
 
 当前旅游行业正面临"信息海啸"的困境——**信息过载却知识匮乏**：
 
