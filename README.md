@@ -1,29 +1,20 @@
 <img src="./assets/hero.png" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go_Together-FRONT-Fe9a00?style=for-the-badge
-" alt="Front">
-  <a href=""><img src="https://img.shields.io/badge/Go_Together-BACKEND-FFFFFF?style=for-the-badge
-" alt="Backend"></a>
-<a href=""><img src="https://img.shields.io/badge/Go_Together-AI-2ECD72?style=for-the-badge
-" alt="ai"></a>
-  <a href="http://docs.creteper.xyz"><img src="https://img.shields.io/badge/About_305-Document-A6AFFD?style=for-the-badge
-" alt="Documentation"></a>
+  <img src="https://img.shields.io/badge/Go_Together-FRONT-Fe9a00?style=for-the-badge" alt="Front">
+  <a href=""><img src="https://img.shields.io/badge/Go_Together-BACKEND-FFFFFF?style=for-the-badge" alt="Backend"></a>
+  <a href=""><img src="https://img.shields.io/badge/Go_Together-AI-2ECD72?style=for-the-badge" alt="ai"></a>
+  <a href="http://docs.creteper.xyz"><img src="https://img.shields.io/badge/About_305-Document-A6AFFD?style=for-the-badge" alt="Documentation"></a>
 </p>
 
 # Go Together
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go_Together-Document-Fe9a00?style=for-the-badge
-" alt="Documentation">
-  <a href="http://docs.creteper.xyz"><img src="https://img.shields.io/badge/About 305-Document-A6AFFD?style=for-the-badge
-" alt="Documentation"></a>
-<a href="#"><img src="https://img.shields.io/badge/BACKEND_BY-ALBamKin-FFFFFF?style=for-the-badge
-" alt="Documentation"></a>
-<a href="#"><img src="https://img.shields.io/badge/FRONT_BY-Creteper-000000?style=for-the-badge
-" alt="Documentation"></a>
-<a href="#"><img src="https://img.shields.io/badge/AI_BY-PPGuai-2ECD72?style=for-the-badge
-" alt="Documentation"></a>
+  <img src="https://img.shields.io/badge/Go_Together-Document-Fe9a00?style=for-the-badge" alt="Documentation">
+  <a href="http://docs.creteper.xyz"><img src="https://img.shields.io/badge/About 305-Document-A6AFFD?style=for-the-badge" alt="Documentation"></a>
+  <a href="#"><img src="https://img.shields.io/badge/BACKEND_BY-ALBamKin-FFFFFF?style=for-the-badge" alt="Documentation"></a>
+  <a href="#"><img src="https://img.shields.io/badge/FRONT_BY-Creteper-000000?style=for-the-badge" alt="Documentation"></a>
+  <a href="#"><img src="https://img.shields.io/badge/AI_BY-PPGuai-2ECD72?style=for-the-badge" alt="Documentation"></a>
 </p>
 
 *我随便的 FreeStyle 他们发疯的记*
