@@ -1,143 +1,106 @@
-[TOC]
-# TODO
+<img src="./assets/hero.png" />
 
-## 7月 30 日
-
-1. ✅ 数据加上 - 3 
-2. ✅ 开头太长了 缩减 - 4 
-3. ✅《智慧旅游创新发展行动计划》PPT上说一下 - 5
-4. ✅ PPT 分工 改 
-5. ✅ 介绍功能 - 13
-6. ✅ AI生成静态网站 稿写上
-7. ✅ 系统框架图 和介绍加上 需求分析之后 ？？？？（不一定）
-8. ✅ 张 - 稿：讲解断连机制
-9. ✅ 项目部署 -> 谁在部署 -> 部署什么东西 -> 干了什么 - PPT
-	徐 检查服务器（Docker + Dify、LM Studio 向量索引模型）、运行后端
-10. ✅  韩 页面数据哪些是后端推送来的 （证明在互相配合） - 稿
-		介绍时 介绍到底是谁给的数据
-11. 徐 说话太快了 导致说话不清楚
-
-
-## 8月1日
-
-1. ✅ PPT和内容不相符 - 43
-2. ✅ 生成延迟降低了350ms以上 - 64
-3. ✅ 以前沿技术突破引领未来产业发展，用原创性、颠覆性创新解决真实问题。 - 98
-4. ✅ 机器人小游对话可以暂停
-5. ✅ 架构图给他改成那种就是界面的直观的效。 - PPT
-6. ✅ AI导游生成时间问题
-7. 本地化的方案，如果远程服务器不给力：返回本地数据
-
-
-## 8月2日
-
-1. ✅ 产品宣传海报
-2. ✅ 拍摄
-
-## 8月4日
-
-1. 我们的小游能给大家的体验是不同的，我们的小游  信息海啸下 - 稿
-2. 需求分析，首先我们的目标客户，接下来核心功能 （我们通过以上的核心功能 力求解决痛点） - 稿
-3. ✅PPT 架构图 需要可视化的成果来展示
-4. 标记好看哪 - 稿
-5. 在韩讲时介绍韩在干嘛 - 稿
-6. 徐伟力 稿 给我定下来！！！！！！！！！！！！！ 提交PR！！！！！！！！！！！！！！！
-
-# 十宗罪——徐某人全占工程师的故事
-
-## 1. 贪婪
-
-*  胁迫他人出去吃好吃的
-*  抢人打火机
-*  喝别人水 不自个买
-
-## 2. 色欲
-
-- 自己功能没写完去找女的玩去了（20次 一次没成功过）
-- 大半夜开闪光灯和别人聊天
-- 教别人买避孕套
-- 飞他家(达瓦里氏 不利于团结的话不要讲)
-
-## 3. 饕餮
-
-- 80块钱 ***麻辣香锅
-- 70块钱 ***麻辣烫
-- 109块钱 ***麻辣烫
-- 教唆别人吃好吃的（一礼拜吃5次馆子）
-
-## 4. 妒忌
-
-- 天天念叨梅赛德斯奔驰E300L
-- 兰德酷路泽fj
-- 小米su7 ultra
-- 苹果16 PRO MAX
-- 华为MATE 60 PRO +
-
-## 5. 懒惰
-
-- 置项目于水火之中
-- 画大饼 自个不干活
--  ***电话！！！
-- 自个不买东西，专拿别人的（自个出去，不给带）
-- 床垫子
-- 听老师的建议表面答应（实则忘了）
-- Docker让别人部自己刷抖音
-- 至理名言： ***I don't give a shit.
-- 别人专心工作，骚扰别人出去抽烟
-- 老弟给我收拾一下电脑
-- 桌子一层烟油（擦不掉）
-- 吃完东西不收拾
-- 吃完扔别人桌子上了
-- 垃圾不扔
-- 塑料袋不扔
-- 烟灰弹地上
-- 桌子上现在还有圣遗物
-
-## 6. 傲慢
-
-- `I don't give a shit.
-- 站在你面前的是.......
-	- 神话
-	- 5e 2300
-	- 双服宗师
-- 我手里拿的是 HUAWEI MATE 60 PRO +
-- 还得是........
-	- 小米
-	- 苹果
-	- 华为
-	- 酷路泽 FJ
-	- E300L
-	- su7 ultra
-	- yu7
-	- 还待挖掘
-## 7. 暴怒
-
-- 怎么三个C啊
-- 怎么吃不到奶啊！！！！！！！！！！！！！！！！！！！！！！
-- 释然的笑
-- `Noway to win
-- ***I don’t give a shit
-- docker就是部不上我操你个血妈
-- 我要炸缸了
-
-## 8. 不睦
-
-- 待挖掘（暂未发现）
-
-## 9. 不义
-
-- 待挖掘（暂未发现）
-
-## 10. 内乱
-
-- 待挖掘（暂未发现）
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Go_Together-FRONT-Fe9a00?style=for-the-badge
+" alt="Front">
+  <a href=""><img src="https://img.shields.io/badge/Go_Together-BACKEND-FFFFFF?style=for-the-badge
+" alt="Backend"></a>
+<a href=""><img src="https://img.shields.io/badge/Go_Together-AI-2ECD72?style=for-the-badge
+" alt="ai"></a>
+  <a href="http://docs.creteper.xyz"><img src="https://img.shields.io/badge/About_305-Document-A6AFFD?style=for-the-badge
+" alt="Documentation"></a>
+</p>
 # Go Together
 
-**Go Together AI 智能旅行平台**应运而生。
-作为贯彻《智慧旅游创新发展行动计划》的实践载体，
-它不是  又一个旅游APP，而是**您的AI旅行伙伴**，
-以 "AI + 真实旅行经验" 为核心引擎，
-构建从行前决策到行中服务的**全流程陪伴体验**。
+<p align="center">
+  <img src="https://img.shields.io/badge/Go_Together-Document-Fe9a00?style=for-the-badge
+" alt="Documentation">
+  <a href="http://docs.creteper.xyz"><img src="https://img.shields.io/badge/About 305-Document-A6AFFD?style=for-the-badge
+" alt="Documentation"></a>
+<a href="#"><img src="https://img.shields.io/badge/BACKEND_BY-ALBamKin-FFFFFF?style=for-the-badge
+" alt="Documentation"></a>
+<a href="#"><img src="https://img.shields.io/badge/FRONT_BY-Creteper-000000?style=for-the-badge
+" alt="Documentation"></a>
+<a href="#"><img src="https://img.shields.io/badge/AI_BY-PPGuai-2ECD72?style=for-the-badge
+" alt="Documentation"></a>
+</p>
+
+*我随便的 FreeStyle 他们发疯的记*
+
+Go Together 是一个以 **"AI + 真实旅行经验"** 为核心引擎的智能旅行平台，构建从行前决策到行中服务的**全流程陪伴体验**。它不是又一个旅游 APP，而是您的 AI 旅行伙伴。
+
+<a href="./LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-A6AFFD?style=for-the-badge
+" alt="Documentation"></a>
+
+当前旅游行业正面临"信息海啸"的困境——**信息过载却知识匮乏**：
+
+- 用户被海量攻略淹没，筛选效率低下
+- 到了景点后却只能看到冰冷的文字介绍，缺少深度讲解
+- 个性化行程规划成本高，突发状况应对能力弱
+- 弱网/离线环境下地图无法使用
+
+Go Together 应运而生，贯彻《"十四五"旅游业发展规划》，以人工智能技术驱动智慧旅游升级。
+
+| 功能               | 描述                                     |
+| ---------------- | -------------------------------------- |
+| **AI 导游「小游同学」**  | 景点故事讲解、精准路径规划、实时问答，支持多国语言              |
+| **智能行程规划**       | 输入目的地、预算、天数，AI 自动生成详细行程（含交通方式、耗时、预算控制） |
+| **智能避堵 & 动态规划**  | 实时交通数据 + 自研路径重算算法，遇突发状况自动调整路线          |
+| **AreoMap 地图引擎** | 基于 Leaflet 二次开发，1000 标记点下性能提升约 2 倍     |
+| **离线地图缓存**       | 全国地图瓦片缓存（10GB+），弱网/离线环境依然可用            |
+| **全部景点聚合**       | 吃、住、行、游一站式信息聚合，覆盖全国 485+ 景点            |
+| 🤖 **实体机器人「小游」** | 搭载视觉识别 + 语音交互的实体导游，可为文旅机构提供服务 |
+
+---
+
+## 🛠️ 技术栈
+
+### 前端
+
+| 技术                      | 用途                      |
+| ----------------------- | ----------------------- |
+| **Next.js** (Turbopack) | 全栈框架，SSR + ISR，SEO 友好   |
+| **Leaflet → AreoMap**   | 自研地图引擎，双指针聚合算法，性能提升 2x  |
+| **地图瓦片缓存**              | Express.js 瓦片服务器，支持离线导航 |
+| **扣子 AI**               | 原型到代码加速（视觉框架生成，逻辑手工重构）  |
+### 后端
+
+| 技术 | 用途 |
+|------|------|
+| **Rust + Actix** | 高性能后端，杜绝内存泄漏，响应速度比行业平均快 3 倍 |
+| **MySQL** | 51 万+条真实路径数据存储 |
+| **Reqwest** | 轻量级爬虫，速度提升 40%，严格遵循 Robots 协议 |
+| **API 网关** | 请求路由、日志记录、系统自优化 |
+
+### AI 引擎
+
+| 技术                   | 用途                                           |
+| -------------------- | -------------------------------------------- |
+| **RAG Pro 架构**       | 文档切块 → 向量索引 → 相似度检索 → AI 预处理 → LLM 生成，彻底杀死幻觉 |
+| **DeepSeek R1**      | 复杂推理 & 深度行程规划                                |
+| **BAAI/中科大向量模型**     | 多语言支持，8k tokens 上下文                          |
+| **Phantom Eye 视觉系统** | OpenCV 增强 → YOLO 定位 → VLM 语义理解，三级流水线         |
+| **NCNN**             | 模型移动端部署，体积压缩 2/3，保留 95% 准确率                  |
+| **VBC 降噪技术**         | FFMPEG 预处理 + 频谱分析 + AI 智能滤波，广场舞中也能听清         |
+| **火山引擎 TTS**         | 云端语音合成，多国语言，4.8/5 语音评分                       |
+| **Vosk**             | 本地语音识别，云端+本地混合识别策略                           |
+| **PyTorch-CUDA**     | 模型蒸馏 + 量化 + 微调                               |
+
+### 基础设施
+
+| 技术 | 用途 |
+|------|------|
+| **GitHub** | 版本控制、分支管理、Issues 追踪 |
+| **Apifox** | API 文档 & 接口同步 |
+| **LM Studio** | 本地向量索引模型运行 |
+
+关于源码的问题，请咨询我们！
 
 
+---
+
+## License
+
+MIT — see [LICENSE](LICENSE).
+
+Built by [Nous Research](https://nousresearch.com).
