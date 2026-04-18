@@ -88,27 +88,26 @@
 
 在这里我们让数据变成AI能够理解的向量，让AI"懂"得您问的是建筑排水，而不是神话传说。
 
-接着使用同文件的 calculate_similarity()。
-
 ---
+
+接着使用同文件的 calculate_similarity()。
 
 **跳转 calculate_similarity()**
 **📁 mobile-rag/services/embedding_service.py · 第 226 行（与 get_embedding 同文件）**
 
 这个函数用来计算查询问题和数据库文档块之间的相似度。
 
-然后与 extract_keywords() 进行互相配合。
-
 ---
+然后与 extract_keywords() 进行互相配合。
 
 **跳转 extract_keywords()**
 **📁 mobile-rag/app/api/document_routes.py · 第 575 行**
 
 提取关键词，还有词频统计和词性分类。
 
-而在这里则是让AI有据可依的关键。
-
 ---
+
+而在这里则是让AI有据可依的关键。
 
 **跳转 search_documents()（RAG SERVICE 文件下）**
 **📁 mobile-rag/services/rag_service.py · 第 20 行**
@@ -117,9 +116,9 @@
 
 这一步就是为了让AI拒绝编造。阈值0.3不是魔法数字，而是上百次测试中测出来的"真实与编造"的分界线。
 
-在最后我们需要用到 _process_rag 这个异步函数。
-
 ---
+
+在最后我们需要用到 _process_rag 这个异步函数。
 
 **跳转 _process_rag()**
 **📁 Project/LLM/RagPro.py · 第 36 行**
@@ -128,9 +127,8 @@
 
 在这些步骤之后我们将RAG增强索引、实时天气获取还有大语言模型等多个关键模块整合到了一个函数，也就是API函数，它构成了我们最重要的AI路径规划功能。
 
-而当用户开口提问时，小游同学的耳朵是怎样构成的呢？
-
 ---
+而当用户开口提问时，小游同学的耳朵是怎样构成的呢？
 
 **跳转 VBCAudioProcessor.process_audio_file() 《VBC核心处理函数》**
 **📁 Robot_project/vbc.py · 第 396 行（VBCAudioProcessor 类）**
@@ -139,18 +137,16 @@
 
 这里就是我们的VBC技术：先用FFMPEG过滤底噪（ffmpeg_denoise · 第182行），再通过频谱分析提纯人声（spectral_denoise · 第241行），然后应用专用音频AI模型二次过滤（ai_denoise · 第310行）。
 
-然后我们使用 submit_task() 函数，结合火山引擎的专业音频处理能力，将语音转换为文字。
-
 ---
+然后我们使用 submit_task() 函数，结合火山引擎的专业音频处理能力，将语音转换为文字。
 
 **跳转 submit_task()**
 **📁 mobile-rag/services/auc_websocket_demo.py · 第 14 行**
 
 这样就可以让AI在广场舞中也可以听清用户的声音。
+[PPT切换]
 
 ---
-
-[PPT切换]
 
 光听还不够，我们还要让小游能够讲得也清晰。
 
@@ -161,9 +157,8 @@
 
 实现的文本转语音的功能，并且还能够对长文本进行自动分割处理。
 
+---
 最后，get_guide() 函数用于生成我们的AI导游解说内容。
-
-
 
 **跳转 get_guide()**
 **📁 Project/app.py · 第 1517 行**
